@@ -52,7 +52,7 @@
       </div>
     </div><br>
   </div>
-  <div class="w3-half w3-indigo w3-container" style="min-height:950px">
+  <div class="w3-half w3-indigo w3-container" style="min-height:1100px">
     <div class="w3-padding-64 w3-center">
       <h2>My Favorite Games</h2>
       <div class="w3-container w3-responsive">
