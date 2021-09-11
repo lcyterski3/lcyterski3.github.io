@@ -63,6 +63,7 @@
             <td>Lorem ipsum</td>
           </tr>
           <tr>
+            <tr class="w3-indigo"></tr>
             <td>2009-2012</td>
             <td>Started my own company</td>
             <td>My Garage</td>
@@ -73,6 +74,7 @@
             <td>London, UK</td>
           </tr>
           <tr>
+            <tr class="w3-indigo"></tr>
             <td>2005-2008</td>
             <td>Degree in Bachelor of Design</td>
             <td>Harvard, USA</td>
@@ -82,7 +84,7 @@
             <td>Degree in Bachelor of Business</td>
             <td>RMIT University, Melbourne, Australia</td>
           </tr>
-          <tr class="w3-hide-medium">
+          <tr class="w3-indigo">
             <td>2002-2005</td>
             <td>Degree in Bachelor of Business</td>
             <td>RMIT University, Melbourne, Australia</td>
@@ -136,3 +138,4 @@
 
 </body>
 </html>
+
