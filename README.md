@@ -74,7 +74,7 @@
             <td>London, UK</td>
           </tr>
           <tr>
-            <tr class="w3-indigo"></tr>
+            <tr class="w3-blue-grey"></tr>
             <td>2005-2008</td>
             <td>Degree in Bachelor of Design</td>
             <td>Harvard, USA</td>
