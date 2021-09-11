@@ -78,13 +78,13 @@
 </div>
         
 <!-- Third Grid: Swing By & Contact -->
-<div class="w3-row" id="contact">
+<div class="w3-row">
   <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
     <div class="w3-padding-64">
       <h1>Socials</h1>
     </div>
     <div class="w3-padding-64">
-      <p>Snap: logandecy</p>
+      <p>Snap: logandcy</p>
       <p>Insta: logandorancyterski</p>
     </div>
   </div>
