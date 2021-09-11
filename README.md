@@ -84,7 +84,7 @@
       <h1>Socials</h1>
     </div>
     <div class="w3-padding-64">
-      <p>Snap: loganddcy</p>
+      <p>Snap: logandcy</p>
       <p>Insta: logandorancyterski</p>
       <p>Email: lcyterski@gmail.com</p>
     </div>
