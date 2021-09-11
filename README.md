@@ -56,45 +56,27 @@
     <div class="w3-padding-64 w3-center">
       <h2>My Favorite Games</h2>
       <div class="w3-container w3-responsive">
-        <table class="w3-table">
-          <tr class="w3-white">
-            <td>2012-2011</td>
-            <td>The rest is history..</td>
-            <td>Lorem ipsum</td>
-          </tr>
-          <tr>
-            <tr class="w3-indigo"></tr>
-            <td>2009-2012</td>
-            <td>Started my own company</td>
-            <td>My Garage</td>
-          </tr>
-          <tr class="w3-white">
-            <td>2008-2009</td>
-            <td>Started working for Lorem</td>
-            <td>London, UK</td>
-          </tr>
-          <tr>
-            <tr class="w3-blue-grey"></tr>
-            <td>2005-2008</td>
-            <td>Degree in Bachelor of Design</td>
-            <td>Harvard, USA</td>
-          </tr>
-          <tr class="w3-white">
-            <td>2002-2005</td>
-            <td>Degree in Bachelor of Business</td>
-            <td>RMIT University, Melbourne, Australia</td>
-          </tr>
-          <tr class="w3-indigo">
-            <td>2002-2005</td>
-            <td>Degree in Bachelor of Business</td>
-            <td>RMIT University, Melbourne, Australia</td>
-          </tr>
-        </table>
+        <div class="w3-row">
+          <div class="w3-half">
+            <img src="GoT.jpg" style="width:100%">
+          </div>
+          <div class="w3-half">
+            <img src="Eva.jpg" style="width:100%">
+          </div>
+        </div>
+        <div class="w3-row w3-hide-small">
+          <div class="w3-half">
+            <img src="fmab.png" style="width:100%">
+          </div>
+          <div class="w3-half">
+            <img src="odd.jpg" style="width:100%">
+          </div>
+        </div><br>
       </div>
     </div>
   </div>
 </div>
-
+        
 <!-- Third Grid: Swing By & Contact -->
 <div class="w3-row" id="contact">
   <div class="w3-half w3-dark-grey w3-container w3-center" style="height:700px">
@@ -138,4 +120,3 @@
 
 </body>
 </html>
-
