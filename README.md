@@ -58,18 +58,18 @@
       <div class="w3-container w3-responsive">
         <div class="w3-row">
           <div class="w3-half">
-            <img src="GoT.jpg" style="width:100%">
+            <img src="baba.jpg" style="width:100%">
           </div>
           <div class="w3-half">
-            <img src="Eva.jpg" style="width:100%">
+            <img src="civ.jpg" style="width:100%">
           </div>
         </div>
         <div class="w3-row w3-hide-small">
           <div class="w3-half">
-            <img src="fmab.png" style="width:100%">
+            <img src="sky.png" style="width:100%">
           </div>
           <div class="w3-half">
-            <img src="odd.jpg" style="width:100%">
+            <img src="ff.jpg" style="width:100%">
           </div>
         </div><br>
       </div>
